@@ -1,0 +1,10 @@
+name: pythondesign
+channels:
+  - defaults
+  - conda-forge  # Additional channel, you can add more if needed
+dependencies:
+  - python=3.10
+  - pre-commit
+  - pylint
+  - pydantic
+  - pytest

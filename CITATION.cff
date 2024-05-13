@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "H. SIBONI"
+  given-names: "NIMA"
+
+title: "PythonDesignPatterns"
+version: 1.0.0
+date-released: 2024-05-13
+url: "https://github.com/nima-siboni/python-design-pattern-exercises"
